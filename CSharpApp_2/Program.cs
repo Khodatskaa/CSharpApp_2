@@ -1,10 +1,9 @@
 ﻿namespace CSharpApp_2
 {
-    internal class Program
+    public class Program
     {
         static void Main()
         {
-            
         }
     }
 }
